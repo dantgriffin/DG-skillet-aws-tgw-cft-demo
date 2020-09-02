@@ -154,7 +154,7 @@
                 "AMI": "ami-12d36a76"
             },
             "eu-west-1": {
-                "AMI": "ami-0cf842df2919e4b38"
+                "AMI": "ami-076d5d61"
             },
             "eu-west-2": {
                 "AMI": "ami-0a4c5a6e"
@@ -204,7 +204,7 @@
                 "AMI": "ami-060cde69"
             },
             "eu-west-1": {
-                "AMI": "ami-0cf842df2919e4b38"
+                "AMI": "ami-bbc542c8"
             },
             "eu-west-2": {
                 "AMI": "ami-f1d7c395"
@@ -257,9 +257,9 @@
                 "BYOL": "ami-55bfd73a"
             },
             "eu-west-1": {
-              "Bundle1": "ami-0cf842df2919e4b38",
-              "Bundle2": "ami-0e9c0cba01e57ef84",
-              "BYOL": "ami-0ba97e01fb450cf2d"
+                "Bundle1": "ami-edb0fe94",
+                "Bundle2": "ami-1fb1ff66",
+                "BYOL": "ami-62b5fb1b"
             },
             "eu-west-2": {
                 "Bundle1": "ami-f46a8d93",
